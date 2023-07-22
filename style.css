@@ -1,0 +1,22 @@
+.img-properties{
+    width:175px;
+    height:150px;
+    border-radius:24px;
+}
+.div-properties{
+background-color:rgb(161, 161, 161);
+border-radius: 16px;
+margin-top:36px;
+margin-left:140px;
+margin-right:20px;
+width:450px;
+height:300px;
+padding:12px;
+z-index: 18px;
+}
+.div-desc-properties{
+color:white;
+}
+.div-modified-properties{
+margin-left:300px;
+}
